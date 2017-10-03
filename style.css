@@ -1,0 +1,27 @@
+header {
+	text-align: center;
+	font-family: Verdana;
+	color: blue;
+}
+
+.section1 {
+	margin: 0;	
+}
+
+#stuff {
+	color: green;
+	text-align: left;
+	padding-left: 180px;
+}
+
+#list {
+	margin: 0px;
+	color: red;
+	text-align: left;
+}
+
+#construction {
+	float: left;
+	margin-top: 10px;
+	margin-left: 110px;	
+}
